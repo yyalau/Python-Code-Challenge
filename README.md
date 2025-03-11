@@ -44,11 +44,17 @@ Your goal is to implement a solution in Python that adheres to the problem requi
 6. **Submit your work**:
    - Share the link to your GitHub repository where your solution is hosted.
 
+7. **Time Restriction**:
+   - You **must complete the challenge within 30 minutes** from the time you start working on it.
+   - Be sure to include a timer or mention the start and end times in your video recording to demonstrate adherence to the time limit.
+
+
 ---
 
 ## 📋 Guidelines
 
 - **Programming Language**: Use Python for your solution.
+- **Time Restriction**: You must complete the coding challenge within **30 minutes**.
 - **AI Tools**: You are allowed to use AI tools like ChatGPT, GitHub Copilot, or others to assist you. However:
   - You must explicitly state which tools you used and how they helped in your `process.md` file.
   - Ensure the use of AI tools is included in your video recording.
@@ -84,6 +90,7 @@ Your submission will be evaluated based on the following:
 2. **Code efficiency**: Is your solution optimized for time and space complexity?
 3. **Documentation**: Have you clearly explained your thought process and use of AI tools?
 4. **Video recording**: Does the recording show your approach clearly and include the use of AI tools?
+5. **Time adherence**: Did you complete the challenge within 30 minutes?
 
 ---
 
