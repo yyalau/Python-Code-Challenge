@@ -72,7 +72,7 @@ Your goal is to implement a solution in Python that adheres to the problem requi
 
 ## 🕒 Deadline
 
-- Please complete and submit your solution within **[specify deadline, e.g., 7 days]** from the time you receive this challenge.
+- Please complete and submit your solution within **2 days** from the time you receive this challenge.
 
 ---
 
